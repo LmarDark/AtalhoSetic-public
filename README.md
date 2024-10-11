@@ -32,6 +32,8 @@ Segue documentação oficial das tecnologias usadas Laravel, PHP, Vue.js, Inerti
 
 ## Finalização
 
+[Escrevendo...]
+
 Obrigado por considerar contribuir com este projeto!
 - Caio T.
 - Lucas M.
