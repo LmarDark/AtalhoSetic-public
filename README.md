@@ -17,16 +17,16 @@ Desenvolvido com Laravel por LmarDark.
 ## 💻 Sobre as tecnologias usadas:
 
 - **Laravel**:
-Escolhi Laravel para desenvolver o AtalhoSetic devido à sua robustez e facilidade de uso. Laravel oferece uma sintaxe elegante e simplificada, o que me permitiu criar uma aplicação sólida e escalável rapidamente, mesmo sendo um projeto que envolveu várias tecnologias, como Vue.js, Inertia.js, e Tailwind CSS.
+Escolhi _Laravel_ para desenvolver o AtalhoSetic devido à sua robustez e facilidade de uso. _Laravel_ oferece uma sintaxe elegante e simplificada, o que me permitiu criar uma aplicação sólida e escalável rapidamente, mesmo sendo um projeto que envolveu várias tecnologias, como _Vue.js_, _Inertia.js_, e _Tailwind CSS_.
 
 - **Vue.js**:
-O uso de Vue.js foi estratégico, pois ele permite uma integração fácil com Laravel através de Inertia.js. Isso me permitiu desenvolver o frontend de maneira reativa, mantendo a simplicidade e a estrutura robusta do Laravel no backend. Vue.js, sendo altamente reativo, possibilitou a criação de uma interface de usuário fluida, onde as interações são rápidas e a experiência é contínua, sem recarregamentos de página.
+O uso de _Vue.js_ foi estratégico, pois ele permite uma integração fácil com _Laravel_ através de _Inertia.js_. Isso me permitiu desenvolver o frontend de maneira reativa, mantendo a simplicidade e a estrutura robusta do Laravel no backend. _Vue.js_, sendo altamente reativo, possibilitou a criação de uma interface de usuário fluida, onde as interações são rápidas e a experiência é contínua, sem recarregamentos de página.
 
 - **Inertia.js**:
-Uma das maiores vantagens do Inertia.js é que ele elimina a necessidade de construir um frontend desacoplado com chamadas de API tradicionais. Em vez disso, Inertia atua como uma ponte, enviando respostas do servidor Laravel diretamente para o Vue.js, permitindo que eu trabalhasse com rotas e controladores de forma familiar no Laravel, enquanto construía uma interface altamente reativa com Vue.js.
+Uma das maiores vantagens do _Inertia.js_ é que ele elimina a necessidade de separar completamente o frontend do backend. Com o _Inertia_, o _Laravel_ continua sendo o responsável pelas rotas e controladores, como em uma aplicação tradicional, mas o frontend é renderizado de maneira reativa com _Vue.js_.
 
 - **Tailwind CSS**:
-Optei por utilizar Tailwind CSS como o framework de design da interface do usuário, devido à sua flexibilidade e abordagem utilitária. Tailwind me permitiu criar um design moderno e altamente responsivo sem a necessidade de escrever longos arquivos CSS ou lidar com classes CSS personalizadas extensivas.
+Optei por utilizar _Tailwind CSS_ como o framework de design da interface do usuário, devido à sua flexibilidade e abordagem utilitária. _Tailwind_ me permitiu criar um design moderno e altamente responsivo sem a necessidade de escrever longos arquivos CSS ou lidar com classes CSS personalizadas extensivas.
 
 
 Segue documentação oficial das tecnologias usadas Laravel, PHP, Vue.js, Inertia e Tailwind
