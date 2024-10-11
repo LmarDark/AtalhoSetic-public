@@ -17,12 +17,9 @@ Desenvolvido com Laravel por LmarDark.
 ## 💻 Sobre as tecnologias usadas:
 
 - Laravel
-```
-Escolhi Laravel para desenvolver o AtalhoSetic devido à sua robustez e facilidade de uso.
-Laravel oferece uma sintaxe elegante e simplificada,
-o que me permitiu criar uma aplicação sólida e escalável rapidamente,
-mesmo sendo um projeto que envolveu várias tecnologias, como Vue.js, Inertia.js, e Tailwind CSS.
-```
+
+Escolhi Laravel para desenvolver o AtalhoSetic devido à sua robustez e facilidade de uso. Laravel oferece uma sintaxe elegante e simplificada, o que me permitiu criar uma aplicação sólida e escalável rapidamente, mesmo sendo um projeto que envolveu várias tecnologias, como Vue.js, Inertia.js, e Tailwind CSS.
+
 
 Segue documentação oficial das tecnologias usadas Laravel, PHP, Vue.js, Inertia e Tailwind
 
