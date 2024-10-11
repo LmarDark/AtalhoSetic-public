@@ -20,11 +20,11 @@ Segue documentação oficial das tecnologias usadas Laravel, PHP, Vue.js, Inerti
 
 [Escrevendo...]
 
-**Laravel** - https://laravel.com/docs/11.x
-**PHP** - *https://www.php.net/manual/pt_BR/*
-**Vue.js** - https://vuejs.org/guide/introduction.html
-**Inertia** - https://inertiajs.com/
-**Tailwind CSS** - https://tailwindcss.com/docs/installation
+- **Laravel** - https://laravel.com/docs/11.x
+- **PHP** - *https://www.php.net/manual/pt_BR/*
+- **Vue.js** - https://vuejs.org/guide/introduction.html
+- **Inertia** - https://inertiajs.com/
+- **Tailwind CSS** - https://tailwindcss.com/docs/installation
 
 👨‍💻 Aprendizados e obstáculos:
 
