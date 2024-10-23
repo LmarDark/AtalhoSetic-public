@@ -12,7 +12,11 @@ Desenvolvido com Laravel por LmarDark.
 
 🔍 Principais funcionalidades:
 
-[Escrevendo...]
+- Atalhos;
+- Banimento de IP;
+- Scan-Port;
+- Armazenador de Scripts;
+- Dentre outros
 
 ## 💻 Sobre as tecnologias usadas:
 
@@ -43,10 +47,6 @@ Segue documentação oficial das tecnologias usadas Laravel, PHP, Vue.js, Inerti
 
 ## Finalização
 
-[Escrevendo...]
-
-Obrigado por considerar contribuir com este projeto!
-- Caio T.
-- Lucas M.
+Visto tudo isso, este foi um projeto gratificante que mê forneceu bastante conhecimento.
 
  
