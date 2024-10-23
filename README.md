@@ -16,7 +16,7 @@ Desenvolvido com Laravel por LmarDark.
 - Banimento de IP;
 - Scan-Port;
 - Armazenador de Scripts;
-- Dentre outros
+- Dentre outros.
 
 ## 💻 Sobre as tecnologias usadas:
 
@@ -30,7 +30,7 @@ O uso de _Vue.js_ foi estratégico, pois ele permite uma integração fácil com
 Uma das maiores vantagens do _Inertia.js_ é que ele elimina a necessidade de separar completamente o frontend do backend. Com o _Inertia_, o _Laravel_ continua sendo o responsável pelas rotas e controladores, como em uma aplicação tradicional, mas o frontend é renderizado de maneira reativa com _Vue.js_;
 
 - **Tailwind CSS**:
-Optei por utilizar _Tailwind CSS_ como o framework de design da interface do usuário, devido à sua flexibilidade e abordagem utilitária. _Tailwind_ me permitiu criar um design moderno e altamente responsivo sem a necessidade de escrever longos arquivos CSS ou lidar com classes CSS personalizadas extensivas;
+Optei por utilizar _Tailwind CSS_ como o framework de design da interface do usuário, devido à sua flexibilidade e abordagem utilitária. _Tailwind_ me permitiu criar um design moderno e altamente responsivo sem a necessidade de escrever longos arquivos CSS ou lidar com classes CSS personalizadas extensivas.
 
 Segue documentação oficial das tecnologias usadas Laravel, PHP, Vue.js, Inertia e Tailwind
 
