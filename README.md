@@ -40,10 +40,6 @@ Segue documentação oficial das tecnologias usadas Laravel, PHP, Vue.js, Inerti
 - **Inertia** - https://inertiajs.com/
 - **Tailwind CSS** - https://tailwindcss.com/docs/installation
 
-👨‍💻 Aprendizados e obstáculos:
-
-[Escrevendo...]
-
 ## Finalização
 
 Visto tudo isso, este foi um projeto gratificante que mê forneceu bastante conhecimento.
